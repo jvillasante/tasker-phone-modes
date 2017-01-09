@@ -40,7 +40,7 @@
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>118</code>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jhotmann/tasker-phone-modes/master/js/SetPhoneMode.js</Str>
+			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jvillasante/tasker-phone-modes/master/js/SetPhoneMode.js</Str>
 			<Str sr="arg1" ve="3"/>
 			<Str sr="arg2" ve="3"/>
 			<Str sr="arg3" ve="3"/>
@@ -52,7 +52,7 @@
 		</Action>
 		<Action sr="act1" ve="7">
 			<code>118</code>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jhotmann/tasker-phone-modes/master/js/DoubleCheck.js</Str>
+			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jvillasante/tasker-phone-modes/master/js/DoubleCheck.js</Str>
 			<Str sr="arg1" ve="3"/>
 			<Str sr="arg2" ve="3"/>
 			<Str sr="arg3" ve="3"/>
@@ -64,7 +64,7 @@
 		</Action>
 		<Action sr="act2" ve="7">
 			<code>118</code>
-			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jhotmann/tasker-phone-modes/master/config/base.json</Str>
+			<Str sr="arg0" ve="3">https://raw.githubusercontent.com/jvillasante/tasker-phone-modes/master/config/base.json</Str>
 			<Str sr="arg1" ve="3"/>
 			<Str sr="arg2" ve="3"/>
 			<Str sr="arg3" ve="3"/>
